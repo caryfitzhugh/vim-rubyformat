@@ -10,7 +10,7 @@ or when `ff` is pressed whilst in normal mode.
 ###### If using [Vundle Plug-in Manager] for `Vim`:
 Add the following line to your vimrc file:
 ```
-Plugin 'radovskyb/vim-rubyformat'
+Plugin 'vim-scripts/vim-rubyformat'
 ```
 Launch `vim` and run `:PluginInstall`
 [Pathogen.vim]: https://github.com/tpope/vim-pathogen
@@ -19,7 +19,7 @@ Launch `vim` and run `:PluginInstall`
 Go to your terminal window and type:
 ```
 cd ~/.vim/bundle
-git clone https://github.com/radovskyb/vim-rubyformat.git
+git clone https://github.com/vim-scripts/vim-rubyformat.git
 ```
 ===========================================================================
 
